@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/bin/Debug/net9.0/Sample101
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/bin/Debug/net9.0/Sample101.deps.json
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/bin/Debug/net9.0/Sample101.runtimeconfig.json
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/bin/Debug/net9.0/Sample101.dll
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/bin/Debug/net9.0/Sample101.pdb
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/Sample101.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/Sample101.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/Sample101.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/Sample101.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/Sample101.sourcelink.json
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/Sample101.dll
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/refint/Sample101.dll
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/Sample101.pdb
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/Sample101.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/Oreilly_C#/Sample101/obj/Debug/net9.0/ref/Sample101.dll

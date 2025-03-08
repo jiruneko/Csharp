@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/Example204.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/Example204.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/Example204.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/Example204.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/Example204.sourcelink.json
+/Users/nagatsukakenji/C#/practice/Example204/bin/Debug/net9.0/Example204
+/Users/nagatsukakenji/C#/practice/Example204/bin/Debug/net9.0/Example204.deps.json
+/Users/nagatsukakenji/C#/practice/Example204/bin/Debug/net9.0/Example204.runtimeconfig.json
+/Users/nagatsukakenji/C#/practice/Example204/bin/Debug/net9.0/Example204.dll
+/Users/nagatsukakenji/C#/practice/Example204/bin/Debug/net9.0/Example204.pdb
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/Example204.dll
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/refint/Example204.dll
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/Example204.pdb
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/Example204.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/practice/Example204/obj/Debug/net9.0/ref/Example204.dll

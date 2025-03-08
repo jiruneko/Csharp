@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/Sample207.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/Sample207.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/Sample207.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/Sample207.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/Sample207.sourcelink.json
+/Users/nagatsukakenji/C#/practice/Sample207/bin/Debug/net9.0/Sample207
+/Users/nagatsukakenji/C#/practice/Sample207/bin/Debug/net9.0/Sample207.deps.json
+/Users/nagatsukakenji/C#/practice/Sample207/bin/Debug/net9.0/Sample207.runtimeconfig.json
+/Users/nagatsukakenji/C#/practice/Sample207/bin/Debug/net9.0/Sample207.dll
+/Users/nagatsukakenji/C#/practice/Sample207/bin/Debug/net9.0/Sample207.pdb
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/Sample207.dll
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/refint/Sample207.dll
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/Sample207.pdb
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/Sample207.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/practice/Sample207/obj/Debug/net9.0/ref/Sample207.dll
