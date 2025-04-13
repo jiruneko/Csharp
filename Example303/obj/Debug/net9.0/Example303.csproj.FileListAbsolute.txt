@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/Example303.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/Example303.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/Example303.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/Example303.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/Example303.sourcelink.json
+/Users/nagatsukakenji/C#/practice/Example303/bin/Debug/net9.0/Example303
+/Users/nagatsukakenji/C#/practice/Example303/bin/Debug/net9.0/Example303.deps.json
+/Users/nagatsukakenji/C#/practice/Example303/bin/Debug/net9.0/Example303.runtimeconfig.json
+/Users/nagatsukakenji/C#/practice/Example303/bin/Debug/net9.0/Example303.dll
+/Users/nagatsukakenji/C#/practice/Example303/bin/Debug/net9.0/Example303.pdb
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/Example303.dll
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/refint/Example303.dll
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/Example303.pdb
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/Example303.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/practice/Example303/obj/Debug/net9.0/ref/Example303.dll

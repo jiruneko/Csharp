@@ -1,0 +1,15 @@
+/Users/nagatsukakenji/C#/practice/Sample305/bin/Debug/net9.0/Sample305
+/Users/nagatsukakenji/C#/practice/Sample305/bin/Debug/net9.0/Sample305.deps.json
+/Users/nagatsukakenji/C#/practice/Sample305/bin/Debug/net9.0/Sample305.runtimeconfig.json
+/Users/nagatsukakenji/C#/practice/Sample305/bin/Debug/net9.0/Sample305.dll
+/Users/nagatsukakenji/C#/practice/Sample305/bin/Debug/net9.0/Sample305.pdb
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/Sample305.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/Sample305.AssemblyInfoInputs.cache
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/Sample305.AssemblyInfo.cs
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/Sample305.csproj.CoreCompileInputs.cache
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/Sample305.sourcelink.json
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/Sample305.dll
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/refint/Sample305.dll
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/Sample305.pdb
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/Sample305.genruntimeconfig.cache
+/Users/nagatsukakenji/C#/practice/Sample305/obj/Debug/net9.0/ref/Sample305.dll
